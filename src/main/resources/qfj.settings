@@ -1,0 +1,8 @@
+[SESSION]
+ConnectionType=acceptor
+BeginString=FIX.4.4
+SenderCompID=ext
+TargetCompID=int
+SocketAcceptPort=8080
+StartTime=00:00:00
+EndTime=23:59:59
